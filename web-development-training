@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Just Getting Started</title>
+    <link rel="stylesheet" href="#">
+  </head>
+  <body>
+    <h1>Just Getting Started - A WebDev Journey</h1>
+    <h3>First, some simple things I learned today...</h3>
+      <p>Here's a simple paragraph with some text I copied from <a href="www.theverge.com"><strong>The Verge</strong></a>:
+      <p>"<a href="www.facebook.com"><strong>Facebook</strong></a> said it cannot determine whether or <em>how</em> the data in question could have been used in conjunction with election ad campaigns. Cambridge Analytica did not immediately respond to a request for comment."</p>
+    <h3>Now on to some other basics!</h3>
+      <h4>The Unordered List - Websites I Visit</h4>
+        <ul>
+          <li>Facebook</li>
+          <li>Twitter</li>
+          <li>The Verge</li>
+          <li>Vox</li>
+        </ul>
+      <h4>The Ordered List</h4>
+        <ol>
+          <li>Pennsylvania</li>
+          <li>New Jersey</li>
+          <li>Chicago</li>
+          <li>Pearl Harbor</li>
+          <li>New Jersey</li>
+          <li>Pennsylvania</li>
+          <li>Seattle</li>
+        </ol>
+    <h3>And finally, some media...</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Seattle_4.jpg/1599px-Seattle_4.jpg" width="640" alt="The Seattle skyline from Queen Anne">
+  </body>
+</html>
